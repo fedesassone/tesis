@@ -104,3 +104,10 @@ tiktok                          -> Miro redes sociales
 mercardo digital cripto         -> Investigo en Wikipedia/Google
 dibujo                          -> Programo/Diseño
 ```
+
+## Cambios en los datos
+Modificamos algunas respuestas:
+- Un alumno del colegio Juan Mantovani seleccionó el Modelo Mármol
+- Un alumno del colegio Modelo Mármol seleccionó el Juan Mantovani
+- Algunos alumnos eligieron la opcion de no usar computadora o celular pero si eligieron usos frecuentes para esos dispositivos, así que cambiamos las opciones de "No lo uso"
+- Algun alumno eligió un curso distinto 
