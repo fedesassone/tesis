@@ -6,7 +6,7 @@ Respuestas multiple choice:
 Juego Juegos
 Miro videos en Youtube
 Hago la tarea
-Hago videollamadas
+Hago videollamadas (por ejemplo por WhatsApp, Zoom, Skype o Meet)
 Leo articulos de wikipedia
 ```
 
@@ -16,7 +16,7 @@ Uso redes sociales
 Programo/Diseño
 Miro Pelis/Series por streaming
 Escucho música
-Hago videollamadas (por ejemplo por WhatsApp, Zoom, Skype o Meet) -> Hablo con amigos
+Hago videollamadas (por ejemplo por WhatsApp, Zoom, Skype o Meet) -> Videollamadas con amigos
 Leo articulos de wikipedia -> Investigo en Wikipedia/Google
 ```
 
@@ -25,12 +25,12 @@ Las respuestas de los niños y los conjuntos a los cuales las sumamos (chequear 
 ```
 veo tiktok x2                       -> Uso redes sociales x2
 programo x2                         -> Programo/Diseño x2
-Hablo con mis amigos                -> Hablo con amigos
+Hablo con mis amigos                -> Videollamadas con amigos
 Escucho musica mientras hago tarea  -> Escucho música, Hago la tarea
 veo videos de tik tok               -> Uso redes sociales
 veo peliculas y series              -> Miro Pelis/Series por streaming
 fuego y agua                        -> Juego Juegos
-hago llamadas y juego               -> Juego Juegos; Hablo con amigos
+hago llamadas y juego               -> Juego Juegos; Videollamadas con amigos
 programo                            -> Programo/Diseño
 uso paint                           -> Programo/Diseño
 programo en scratch                 -> Programo/Diseño
@@ -78,7 +78,7 @@ Propongo agregar opciones adicionales y renombrar las anteriores:
 ```
 Programo/Diseño
 Hago la tarea
-Chateo (por ejemplo en WhatsApp o Telegram) -> Hablo con amigos
+Chateo (por ejemplo en WhatsApp o Telegram) -> Chateo
 Investigo en Wikipedia -> Investigo en Wikipedia/Google
 Miro redes sociales (por ejemplo Facebook, TikTok o Instagram) -> Uso redes sociales
 ```
@@ -91,7 +91,7 @@ Veo tiktok                      -> Miro redes sociales
 no tengo celular                -> Nunca uso el celular            
 miro youtube (shorts)           -> Youtube
 no tengo                        -> Nunca uso el celular      
-chateo y hago llamadas          -> Hablo con amigos
+chateo y hago llamadas          -> Chateo
 no uso tanto el celu            -> (tiene marcados otros usos asi que borramos este "otros")
 Busco en google                 -> Investigo en Wikipedia/Google
 Tarea                           -> Hago la tarea
