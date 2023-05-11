@@ -78,7 +78,7 @@ Propongo agregar opciones adicionales y renombrar las anteriores:
 ```
 Programo/Diseño
 Hago la tarea
-Chateo (por ejemplo en WhatsApp o Telegram) -> Chateo
+Chateo (por ejemplo en WhatsApp o Telegram) -> Hablo con amigos (data) / Chateo (labels gráficos)
 Investigo en Wikipedia -> Investigo en Wikipedia/Google
 Miro redes sociales (por ejemplo Facebook, TikTok o Instagram) -> Uso redes sociales
 ```
@@ -91,7 +91,7 @@ Veo tiktok                      -> Miro redes sociales
 no tengo celular                -> Nunca uso el celular            
 miro youtube (shorts)           -> Youtube
 no tengo                        -> Nunca uso el celular      
-chateo y hago llamadas          -> Chateo
+chateo y hago llamadas          -> Hablo con amigos
 no uso tanto el celu            -> (tiene marcados otros usos asi que borramos este "otros")
 Busco en google                 -> Investigo en Wikipedia/Google
 Tarea                           -> Hago la tarea
