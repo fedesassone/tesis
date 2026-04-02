@@ -2,3 +2,5 @@ pandas
 jupyter
 matplotlib
 seaborn
+statsmodels
+scipy
